@@ -1,2 +1,2 @@
 # To-Do-List-Repo
-To Do List
+This To Do List is an example of how we use the React process in coding JavaScript.
